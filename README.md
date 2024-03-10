@@ -46,3 +46,8 @@ git clone https://github.com/your-username/boyer-moore-majority-vote.git
 
 Ensure you have Python installed, along with the Matplotlib library 
 **pip install matplotlib**
+
+## Blog on Boyer-Moore Majority Vote Algorithm
+
+I have written a comprehensive blog post titled "Understanding the Boyer-Moore Majority Vote Algorithm and Its Application in Finding the Most Repeated Characters" on my substack. In this article, I dive deep into the algorithm's workings, explore its adaptation for finding the most repeated characters in a string, analyze its time complexity, and provide a practical implementation in Python.
+[Understanding the Boyer-Moore Majority Vote Algorithm and Its Application in Finding the Most Repeated Characters](https://devden.raghavan.studio/p/boyer-moore-majority-vote-algorithm)
