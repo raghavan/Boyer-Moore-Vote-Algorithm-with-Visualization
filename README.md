@@ -32,6 +32,13 @@ python3 visualize_boyer_moore.py
 ```
 The visualization offers a visual understanding of how the algorithm operates and determines the most repeated character in the string.
 
+
+
+https://github.com/raghavan/Boyer-Moore-Vote-Algorithm-with-Visualization/assets/131585/88ac5e8d-6112-4d03-a45a-08140d8acf25
+
+
+
+
 ## Usage
 
 Clone the repository:
